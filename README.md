@@ -41,30 +41,8 @@ My dream is to build toolchains that truly improve developer productivity.
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/AyaseEli-Bing/xnumeter">xnumeter</a></h3>
-      <p>多源温度读数的系统监控工具，支持 CPU/GPU 实时温度追踪与可视化</p>
-      <p>
-        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
-        <img src="https://img.shields.io/github/stars/AyaseEli-Bing/xnumeter?style=social" />
-        <img src="https://img.shields.io/github/last-commit/AyaseEli-Bing/xnumeter?style=flat-square&color=00BBFF" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/AyaseEli-Bing/heatpeek">heatpeek</a></h3>
-      <p>菜单栏实时温度监控工具，四源数据融合展示 CPU/GPU 温度变化</p>
-      <p>
-        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-        <img src="https://img.shields.io/github/stars/AyaseEli-Bing/heatpeek?style=social" />
-        <img src="https://img.shields.io/github/last-commit/AyaseEli-Bing/heatpeek?style=flat-square&color=00BBFF" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/AyaseEli-Bing/Mac-Arch-Installer">Mac-Arch-Installer</a></h3>
-      <p>Mac 硬件的 Arch Linux 自动安装器，简化双系统部署流程</p>
+      <p>Mac 虚拟机安装 Arch Linux 懒人包，Apple Silicon + Parallels Desktop 自动安装脚本</p>
       <p>
         <img src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -73,13 +51,35 @@ My dream is to build toolchains that truly improve developer productivity.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/AyaseEli-Bing/chromatic-defense">chromatic-defense</a></h3>
-      <p>macOS 彩色塔防游戏，多语言混合编程实践项目</p>
+      <h3><a href="https://github.com/AyaseEli-Bing/xnumeter">xnumeter</a></h3>
+      <p>零依赖 macOS 系统监控：Swift 实现终端 TUI + 菜单栏面板，直读 XNU 内核统计</p>
       <p>
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
         <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
-        <img src="https://img.shields.io/github/stars/AyaseEli-Bing/chromatic-defense?style=social" />
-        <img src="https://img.shields.io/github/last-commit/AyaseEli-Bing/chromatic-defense?style=flat-square&color=00BBFF" />
+        <img src="https://img.shields.io/github/stars/AyaseEli-Bing/xnumeter?style=social" />
+        <img src="https://img.shields.io/github/last-commit/AyaseEli-Bing/xnumeter?style=flat-square&color=00BBFF" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AyaseEli-Bing/heatpeek">heatpeek</a></h3>
+      <p>菜单栏实时读取 Apple Silicon SoC 温度、GPU 利用率、功耗和风扇转速，零依赖免 root</p>
+      <p>
+        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/AyaseEli-Bing/heatpeek?style=social" />
+        <img src="https://img.shields.io/github/last-commit/AyaseEli-Bing/heatpeek?style=flat-square&color=00BBFF" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AyaseEli-Bing/bilibili-spider">bilibili-spider</a></h3>
+      <p>B 站 UP 主视频抓取与下载工具：元数据抓取 + 多线程下载，导出 CSV/Excel，双平台可执行文件</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/ffmpeg-black?style=flat-square&logo=ffmpeg&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/AyaseEli-Bing/bilibili-spider?style=social" />
+        <img src="https://img.shields.io/github/last-commit/AyaseEli-Bing/bilibili-spider?style=flat-square&color=00BBFF" />
       </p>
     </td>
   </tr>
