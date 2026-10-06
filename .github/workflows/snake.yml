@@ -17,11 +17,17 @@ jobs:
 
       - name: Generate snake animation
         uses: Platane/snk@v3
+        id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
           color_snake: "#D4A017"
           color_dots: "#555555,#238636,#D4A017"
-          output: "output/github-contribution-grid-snake.svg"
+
+      - name: Create output directory and move files
+        run: |
+          mkdir -p output
+          mv *.svg output/ || echo "No SVG files found"
+          ls -la output/ || true
 
       - name: Commit and push generated files
         run: |
