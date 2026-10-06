@@ -17,9 +17,10 @@ jobs:
 
       - name: Generate snake animation
         run: |
+          mkdir -p output
           docker run --rm \
             -v ${{ github.workspace }}/output:/output \
-            platane/snk:v3 \
+            platane/snk:latest \
             --github_user_name ${{ github.repository_owner }} \
             --color_snake "#D4A017" \
             --color_dots "#555555,#238636,#D4A017" \
