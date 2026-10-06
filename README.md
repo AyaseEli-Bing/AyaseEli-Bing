@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=600&color=D4A017&center=true&vCenter=true&width=620&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E5%86%B0;%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91%E8%80%85;CLI+%E5%B7%A5%E5%85%B7%E4%BD%9C%E8%80%85;macOS+%2F+Linux+%E7%88%B1%E5%A5%BD%E8%80%85" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=600&color=F27A00&center=true&vCenter=true&width=620&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E5%86%B0;%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91%E8%80%85;CLI+%E5%B7%A5%E5%85%B7%E4%BD%9C%E8%80%85;macOS+%2F+Linux+%E7%88%B1%E5%A5%BD%E8%80%85" alt="Typing SVG" />
 
 <br/>
 
@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AyaseEli-Bing&color=D4A017&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=AyaseEli-Bing&color=F27A00&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -47,7 +47,7 @@ My dream is to build toolchains that truly improve developer productivity.
         <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
         <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
         <img src="https://img.shields.io/github/stars/AyaseEli-Bing/xnumeter?style=social" />
-        <img src="https://img.shields.io/github/last-commit/AyaseEli-Bing/xnumeter?style=flat-square&color=D4A017" />
+        <img src="https://img.shields.io/github/last-commit/AyaseEli-Bing/xnumeter?style=flat-square&color=F27A00" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -57,7 +57,7 @@ My dream is to build toolchains that truly improve developer productivity.
         <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
         <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
         <img src="https://img.shields.io/github/stars/AyaseEli-Bing/heatpeek?style=social" />
-        <img src="https://img.shields.io/github/last-commit/AyaseEli-Bing/heatpeek?style=flat-square&color=D4A017" />
+        <img src="https://img.shields.io/github/last-commit/AyaseEli-Bing/heatpeek?style=flat-square&color=F27A00" />
       </p>
     </td>
   </tr>
@@ -69,7 +69,7 @@ My dream is to build toolchains that truly improve developer productivity.
         <img src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
         <img src="https://img.shields.io/github/stars/AyaseEli-Bing/Mac-Arch-Installer?style=social" />
-        <img src="https://img.shields.io/github/last-commit/AyaseEli-Bing/Mac-Arch-Installer?style=flat-square&color=D4A017" />
+        <img src="https://img.shields.io/github/last-commit/AyaseEli-Bing/Mac-Arch-Installer?style=flat-square&color=F27A00" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -79,7 +79,7 @@ My dream is to build toolchains that truly improve developer productivity.
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
         <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
         <img src="https://img.shields.io/github/stars/AyaseEli-Bing/chromatic-defense?style=social" />
-        <img src="https://img.shields.io/github/last-commit/AyaseEli-Bing/chromatic-defense?style=flat-square&color=D4A017" />
+        <img src="https://img.shields.io/github/last-commit/AyaseEli-Bing/chromatic-defense?style=flat-square&color=F27A00" />
       </p>
     </td>
   </tr>
@@ -91,12 +91,12 @@ My dream is to build toolchains that truly improve developer productivity.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AyaseEli-Bing&show_icons=true&hide_border=true&hide=contribs&title_color=D4A017&text_color=555555&icon_color=D4A017&bg_color=00000000&commits_year=2026&cache_seconds=21600" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaseEli-Bing&layout=compact&hide_border=true&title_color=D4A017&text_color=555555&bg_color=00000000&langs_count=8&cache_seconds=21600" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AyaseEli-Bing&show_icons=true&hide_border=true&hide=contribs&title_color=F27A00&text_color=555555&icon_color=F27A00&bg_color=00000000&commits_year=2026&cache_seconds=21600" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaseEli-Bing&layout=compact&hide_border=true&title_color=F27A00&text_color=555555&bg_color=00000000&langs_count=8&cache_seconds=21600" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=AyaseEli-Bing&theme=transparent&hide_border=true&ring=D4A017&fire=D4A017&currStreakNum=D4A017&sideNums=555555&currStreakLabel=555555&sideLabels=555555&dates=555555" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=AyaseEli-Bing&theme=transparent&hide_border=true&ring=F27A00&fire=F27A00&currStreakNum=F27A00&sideNums=555555&currStreakLabel=555555&sideLabels=555555&dates=555555" alt="GitHub Streak" />
 
 </div>
 
@@ -159,7 +159,7 @@ If you like what I am building and want to support my work on system programming
 <br/>
 
 <a href="https://afdian.com/a/AyaseEli-Bing" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-AyaseEli--Bing-D4A017?style=for-the-badge" alt="Support me on Afdian" />
+  <img src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-AyaseEli--Bing-F27A00?style=for-the-badge" alt="Support me on Afdian" />
 </a>
 &nbsp;
 <a href="https://buymeacoffee.com/ayaseeli-bing" target="_blank" rel="noopener noreferrer">
@@ -182,17 +182,17 @@ For opportunities, open-source collaboration, or technical discussions, feel fre
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-D4A017?style=flat-square" alt="Open to Work" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-F27A00?style=flat-square" alt="Open to Work" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20Source%20Collaboration-D4A017?style=flat-square" alt="Open Source Collaboration" />
+<img src="https://img.shields.io/badge/Open%20Source%20Collaboration-F27A00?style=flat-square" alt="Open Source Collaboration" />
 &nbsp;
-<img src="https://img.shields.io/badge/Technical%20Discussions-D4A017?style=flat-square" alt="Technical Discussions" />
+<img src="https://img.shields.io/badge/Technical%20Discussions-F27A00?style=flat-square" alt="Technical Discussions" />
 
 <br/>
 <br/>
 
 <a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-your--email%40example.com-D4A017?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-your--email%40example.com-F27A00?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/AyaseEli-Bing">
