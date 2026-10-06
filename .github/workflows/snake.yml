@@ -19,8 +19,8 @@ jobs:
         uses: Platane/snk@v3.2.0
         with:
           github_user_name: ${{ github.repository_owner }}
-          color_snake: "#F27A00"
-          color_dots: "#555555,#238636,#F27A00"
+          color_snake: "#00BBFF"
+          color_dots: "#555555,#238636,#00BBFF"
           outputs: |
             output/github-contribution-grid-snake.svg
 
