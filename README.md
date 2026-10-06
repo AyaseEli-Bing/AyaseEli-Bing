@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=600&color=D4A017&center=true&vCenter=true&width=620&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Bing;%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91%E8%80%85;CLI+%E5%B7%A5%E5%85%B7%E4%BD%9C%E8%80%85;macOS+%2F+Linux+%E7%88%B1%E5%A5%BD%E8%80%85" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=600&color=D4A017&center=true&vCenter=true&width=620&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E5%86%B0;%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91%E8%80%85;CLI+%E5%B7%A5%E5%85%B7%E4%BD%9C%E8%80%85;macOS+%2F+Linux+%E7%88%B1%E5%A5%BD%E8%80%85" alt="Typing SVG" />
 
 <br/>
 
