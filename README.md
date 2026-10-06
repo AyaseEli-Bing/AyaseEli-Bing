@@ -212,6 +212,47 @@ My dream is to build toolchains that truly improve developer productivity.
 
 ---
 
+## 技能图标 | Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/c,cpp,python,swift,rust,go,git,cmake,make,bash,sqlite,nodejs,javascript,tauri,ffmpeg,protobuf,s3,linux,macos,windows" alt="Skills" />
+
+</div>
+
+---
+
+## 更多统计 | More Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyaseEli-Bing&theme=transparent" alt="Profile Details" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyaseEli-Bing&bg_color=00000000&color=00BBFF&line=00BBFF&point=00BBFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+
+</div>
+
+---
+
+## 联系方式 | Contact
+
+<div align="center">
+
+| 平台 / Platform | 联系方式 / Contact |
+|----------------|-------------------|
+| 📧 **Email** | [your-email@example.com](mailto:your-email@example.com) |
+| 💬 **Discord** | YourDiscordID#1234 |
+| ✈️ **Telegram** | [@YourTelegram](https://t.me/YourTelegram) |
+| 💼 **LinkedIn** | [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) |
+| 🐦 **Twitter/X** | [@YourTwitter](https://twitter.com/YourTwitter) |
+| 🌐 **Website** | [yourwebsite.com](https://yourwebsite.com) |
+
+</div>
+
+---
+
 ## 支持我 | Support Me
 
 <div align="center">
