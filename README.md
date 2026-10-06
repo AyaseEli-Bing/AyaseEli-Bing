@@ -83,6 +83,72 @@ My dream is to build toolchains that truly improve developer productivity.
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AyaseEli-Bing/lumen-rss">lumen-rss</a></h3>
+      <p>本地优先 RSS/Atom 阅读器，零外部依赖（Node 内置 SQLite + 原生 ESM 前端）</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/AyaseEli-Bing/lumen-rss?style=social" />
+        <img src="https://img.shields.io/github/last-commit/AyaseEli-Bing/lumen-rss?style=flat-square&color=00BBFF" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AyaseEli-Bing/grade-manager">grade-manager</a></h3>
+      <p>Tauri v2 离线班级成绩管理桌面应用：多科成绩、排名统计、JSON/CSV 导入导出</p>
+      <p>
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/AyaseEli-Bing/grade-manager?style=social" />
+        <img src="https://img.shields.io/github/last-commit/AyaseEli-Bing/grade-manager?style=flat-square&color=00BBFF" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AyaseEli-Bing/blindbucket">blindbucket</a></h3>
+      <p>透明 S3 加密网关（Go）：客户端普通 S3 通信，存储端仅见密文</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/AyaseEli-Bing/blindbucket?style=social" />
+        <img src="https://img.shields.io/github/last-commit/AyaseEli-Bing/blindbucket?style=flat-square&color=00BBFF" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AyaseEli-Bing/buffa">buffa</a></h3>
+      <p>Rust 实现的 Protobuf：支持 editions、JSON 序列化和零拷贝视图</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/Protobuf-000000?style=flat-square&logo=protobuf&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/AyaseEli-Bing/buffa?style=social" />
+        <img src="https://img.shields.io/github/last-commit/AyaseEli-Bing/buffa?style=flat-square&color=00BBFF" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AyaseEli-Bing/mac-cleaner">mac-cleaner</a></h3>
+      <p>macOS 磁盘清理工具：预览→确认→可恢复清理，13 类缓存 + 五道安全关卡</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/AyaseEli-Bing/mac-cleaner?style=social" />
+        <img src="https://img.shields.io/github/last-commit/AyaseEli-Bing/mac-cleaner?style=flat-square&color=00BBFF" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AyaseEli-Bing/student-score-system">student-score-system</a></h3>
+      <p>C 语言学生成绩管理系统：纯基础语法实现，录入/统计/查询/修改/删除/排名</p>
+      <p>
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/Education-blue?style=flat-square" />
+        <img src="https://img.shields.io/github/stars/AyaseEli-Bing/student-score-system?style=social" />
+        <img src="https://img.shields.io/github/last-commit/AyaseEli-Bing/student-score-system?style=flat-square&color=00BBFF" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
