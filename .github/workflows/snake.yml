@@ -16,15 +16,13 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate snake animation
-        run: |
-          mkdir -p output
-          docker run --rm \
-            -v ${{ github.workspace }}/output:/output \
-            platane/snk:latest \
-            -u ${{ github.repository_owner }} \
-            -o /output/github-contribution-grid-snake.svg \
-            -c "#D4A017" \
-            -g "#555555,#238636,#D4A017"
+        uses: Platane/snk@v3.2.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          color_snake: "#D4A017"
+          color_dots: "#555555,#238636,#D4A017"
+          outputs: |
+            output/github-contribution-grid-snake.svg
 
       - name: Commit and push generated files
         run: |
