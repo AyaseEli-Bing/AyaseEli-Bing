@@ -42,7 +42,7 @@ My dream is to build toolchains that truly improve developer productivity.
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AyaseEli-Bing/Mac-Arch-Installer">Mac-Arch-Installer</a></h3>
-      <p>Mac 虚拟机安装 Arch Linux 懒人包，Apple Silicon + Parallels Desktop 自动安装脚本</p>
+      <p>Mac 虚拟机安装 Arch Linux 懒人包，Apple Silicon + Parallels Desktop 自动安装脚本<br/>Automated Arch Linux installer for Mac: Apple Silicon + Parallels Desktop setup script</p>
       <p>
         <img src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -52,7 +52,7 @@ My dream is to build toolchains that truly improve developer productivity.
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AyaseEli-Bing/xnumeter">xnumeter</a></h3>
-      <p>零依赖 macOS 系统监控：Swift 实现终端 TUI + 菜单栏面板，直读 XNU 内核统计</p>
+      <p>零依赖 macOS 系统监控：Swift 实现终端 TUI + 菜单栏面板，直读 XNU 内核统计<br/>Zero-dependency macOS monitor: Swift TUI + menu bar, reads XNU kernel stats directly</p>
       <p>
         <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
         <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
@@ -64,7 +64,7 @@ My dream is to build toolchains that truly improve developer productivity.
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AyaseEli-Bing/heatpeek">heatpeek</a></h3>
-      <p>菜单栏实时读取 Apple Silicon SoC 温度、GPU 利用率、功耗和风扇转速，零依赖免 root</p>
+      <p>菜单栏实时读取 Apple Silicon SoC 温度、GPU 利用率、功耗和风扇转速，零依赖免 root<br/>Menu bar readout of Apple Silicon SoC temp, GPU stats, power & fan speed — zero deps, no root</p>
       <p>
         <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
         <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
@@ -74,7 +74,7 @@ My dream is to build toolchains that truly improve developer productivity.
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AyaseEli-Bing/bilibili-spider">bilibili-spider</a></h3>
-      <p>B 站 UP 主视频抓取与下载工具：元数据抓取 + 多线程下载，导出 CSV/Excel，双平台可执行文件</p>
+      <p>B 站 UP 主视频抓取与下载工具：元数据抓取 + 多线程下载，导出 CSV/Excel，双平台可执行文件<br/>Bilibili video scraper & downloader: metadata fetch + multi-thread download, CSV/Excel export, cross-platform binaries</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/ffmpeg-black?style=flat-square&logo=ffmpeg&logoColor=white" />
@@ -86,7 +86,7 @@ My dream is to build toolchains that truly improve developer productivity.
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AyaseEli-Bing/lumen-rss">lumen-rss</a></h3>
-      <p>本地优先 RSS/Atom 阅读器，零外部依赖（Node 内置 SQLite + 原生 ESM 前端）</p>
+      <p>本地优先 RSS/Atom 阅读器，零外部依赖（Node 内置 SQLite + 原生 ESM 前端）<br/>Local-first RSS/Atom reader: zero external deps (Node built-in SQLite + native ESM frontend)</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
@@ -96,7 +96,7 @@ My dream is to build toolchains that truly improve developer productivity.
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AyaseEli-Bing/grade-manager">grade-manager</a></h3>
-      <p>Tauri v2 离线班级成绩管理桌面应用：多科成绩、排名统计、JSON/CSV 导入导出</p>
+      <p>Tauri v2 离线班级成绩管理桌面应用：多科成绩、排名统计、JSON/CSV 导入导出<br/>Tauri v2 offline grade manager: multi-subject scores, ranking stats, JSON/CSV import/export</p>
       <p>
         <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
         <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" />
@@ -108,7 +108,7 @@ My dream is to build toolchains that truly improve developer productivity.
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AyaseEli-Bing/blindbucket">blindbucket</a></h3>
-      <p>透明 S3 加密网关（Go）：客户端普通 S3 通信，存储端仅见密文</p>
+      <p>透明 S3 加密网关（Go）：客户端普通 S3 通信，存储端仅见密文<br/>Transparent S3 encryption gateway in Go: clients speak ordinary S3, storage sees only ciphertext</p>
       <p>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
         <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
@@ -118,7 +118,7 @@ My dream is to build toolchains that truly improve developer productivity.
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AyaseEli-Bing/buffa">buffa</a></h3>
-      <p>Rust 实现的 Protobuf：支持 editions、JSON 序列化和零拷贝视图</p>
+      <p>Rust 实现的 Protobuf：支持 editions、JSON 序列化和零拷贝视图<br/>Rust implementation of Protobuf: editions support, JSON serialization & zero-copy views</p>
       <p>
         <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
         <img src="https://img.shields.io/badge/Protobuf-000000?style=flat-square&logo=protobuf&logoColor=white" />
@@ -130,7 +130,7 @@ My dream is to build toolchains that truly improve developer productivity.
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AyaseEli-Bing/mac-cleaner">mac-cleaner</a></h3>
-      <p>macOS 磁盘清理工具：预览→确认→可恢复清理，13 类缓存 + 五道安全关卡</p>
+      <p>macOS 磁盘清理工具：预览→确认→可恢复清理，13 类缓存 + 五道安全关卡<br/>macOS disk cleaner: preview → confirm → reversible cleanup, 13 cache categories + 5 safety gates</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
@@ -140,7 +140,7 @@ My dream is to build toolchains that truly improve developer productivity.
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AyaseEli-Bing/student-score-system">student-score-system</a></h3>
-      <p>C 语言学生成绩管理系统：纯基础语法实现，录入/统计/查询/修改/删除/排名</p>
+      <p>C 语言学生成绩管理系统：纯基础语法实现，录入/统计/查询/修改/删除/排名<br/>C student score system: pure basic syntax, CRUD + statistics + ranking</p>
       <p>
         <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
         <img src="https://img.shields.io/badge/Education-blue?style=flat-square" />
