@@ -1,4 +1,4 @@
-# 你好! 👋 我是 Bing / Hi there! I'm Bing
+# 你好! 👋 我是冰 / Hi there! I'm Bing
 
 [![GitHub Profile](https://img.shields.io/github/followers/AyaseEli-Bing?label=Followers&style=social)](https://github.com/AyaseEli-Bing)
 [![GitHub Stars](https://img.shields.io/github/stars/AyaseEli-Bing?style=social)](https://github.com/AyaseEli-Bing?tab=repositories)
