@@ -21,10 +21,10 @@ jobs:
           docker run --rm \
             -v ${{ github.workspace }}/output:/output \
             platane/snk:latest \
-            --github_user_name ${{ github.repository_owner }} \
-            --color_snake "#D4A017" \
-            --color_dots "#555555,#238636,#D4A017" \
-            --output /output/github-contribution-grid-snake.svg
+            -u ${{ github.repository_owner }} \
+            -o /output/github-contribution-grid-snake.svg \
+            -c "#D4A017" \
+            -g "#555555,#238636,#D4A017"
 
       - name: Commit and push generated files
         run: |
