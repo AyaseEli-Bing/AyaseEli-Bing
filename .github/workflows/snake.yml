@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate snake animation
-        uses: platane/snake@master
+        uses: Platane/snake@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           color_snake: "#D4A017"
@@ -27,7 +27,7 @@ jobs:
           output: "output/github-contribution-grid-snake.svg"
 
       - name: Generate dark mode snake animation
-        uses: platane/snake@master
+        uses: Platane/snake@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           color_snake: "#D4A017"
