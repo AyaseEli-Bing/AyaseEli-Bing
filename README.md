@@ -11,14 +11,13 @@ Full-stack developer passionate about building elegant solutions. Currently work
 
 ### 💻 技术栈 / Tech Stack
 
-**语言 / Languages:** Swift · Rust · Go · Python · TypeScript · C/C++ · Lua · Shell
+**语言 / Languages:** C/C++ · Python
 
-**平台 / Platforms:** macOS · iOS · Linux · Windows
+**平台 / Platforms:** macOS · Linux · Windows
 
 **专注领域 / Focus Areas:**
-- 🍎 **原生开发 / Native Development** - 使用 SwiftUI & AppKit 构建高性能 macOS/iOS 应用
-- ⚙️ **系统工具 / System Tools** - 创建高效的 CLI 工具和自动化脚本
-- 🤖 **AI 集成 / AI Integration** - 利用 LLM 和 MCP 协议实现智能工作流
+- ⚙️ **系统编程 / System Programming** - 使用 C/C++ 构建高性能底层工具和系统应用
+- 🐍 **自动化开发 / Automation** - 利用 Python 实现脚本自动化和数据处理
 - 🔧 **DevOps** - CI/CD 流水线、GitHub Actions 和部署自动化
 
 ## 📊 GitHub 统计 / GitHub Stats
